@@ -2,7 +2,7 @@
     "ise":
     {
         "type": "weapon", "subType": "cannon", "token": "ise", "price": 250, "size": 1, "class": 0, "barrel": 26, "width": 6,
-        "consumption": 15, "edmg": 50, "kdmg": 15, "range": 450, "mspeed": 750, "rate": 250, "rspeed": 360,
+        "consumption": 15, "edmg": 150, "kdmg": 150, "range": 450, "mspeed": 750, "rate": 250, "rspeed": 360,
         "sprite": "spr_item_ise", "bulletSprite": "spr_bullet_ise", "sound": "snd_bullet_ise"
     },
 
@@ -322,7 +322,7 @@
         "subType": "shield",
         "token": "10gj",
         "sprite": "spr_item_10gj",
-        "price": 1000000,
+        "price": 0,
         "size": 250,
         "class": 4,
         "energy": 10000000
@@ -423,7 +423,7 @@
         "type": "upgrade",
         "token": "booster",
         "sprite": "spr_item_upgrade",
-        "price": 5000,
+        "price": 0,
         "size": 0,
         "class": 0
     },
@@ -433,7 +433,7 @@
         "type": "upgrade",
         "token": "tractor",
         "sprite": "spr_item_upgrade",
-        "price": 250,
+        "price": 0,
         "size": 0,
         "class": 0
     },
@@ -476,7 +476,7 @@
         "type": "upgrade",
         "token": "qua_scnr",
         "sprite": "spr_item_upgrade",
-        "price": 10,
+        "price": 0,
         "size": 0,
         "class": 2,
         "range": 9000
@@ -497,7 +497,7 @@
         "type": "upgrade",
         "token": "freight_scnr",
         "sprite": "spr_item_upgrade",
-        "price": 10,
+        "price": 0,
         "size": 0,
         "class": 0
     },

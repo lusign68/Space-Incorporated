@@ -497,7 +497,7 @@
         "type": "upgrade",
         "token": "freight_scnr",
         "sprite": "spr_item_upgrade",
-        "price": 5000,
+        "price": 0,
         "size": 0,
         "class": 0
     },

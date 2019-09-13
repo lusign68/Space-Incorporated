@@ -119,10 +119,10 @@
         {
             "slots":
             [
-                { "start": "5mj" },
+                { "start": "1gj" },
                 {}
             ],
-            "compatible": ["1mj", "5mj", "10gj"]
+            "compatible": ["1mj", "5mj", "1gj"]
         },
 
         "engines":

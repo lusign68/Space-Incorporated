@@ -107,8 +107,8 @@
         {
             "slots":
             [
-                { "distance": 36, "angle": 245, "class": 2, "start": "ise" },
-                { "distance": 36, "angle": 115, "class": 2, "start": "ise" },
+                { "distance": 36, "angle": 245, "class": 2, "start": "zpk" },
+                { "distance": 36, "angle": 115, "class": 2, "start": "zpk" },
                 { "distance": 34, "angle": 330, "class": 1, "start": null  },
                 { "distance": 34, "angle": 30,  "class": 1, "start": null  }
             ],
@@ -122,7 +122,7 @@
                 { "start": "5mj" },
                 {}
             ],
-            "compatible": ["1mj", "5mj", "25mj"]
+            "compatible": ["1mj", "5mj", "10gj"]
         },
 
         "engines":
@@ -139,7 +139,7 @@
 
         "integrated":
         [
-            "sim_scnr"
+            "qud_scnr"
         ]
     },
 

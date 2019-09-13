@@ -1099,7 +1099,7 @@ function execute_start_stuff()
     new game.WeaponInfo();
 
     // Start credits
-    game.creditsAdd(1000);
+    game.creditsAdd(1000000000000);
 
     if (audio_is_playing(game.sounds[game.current.music]) === true) { audio_stop(game.sounds[game.current.music]); };
 

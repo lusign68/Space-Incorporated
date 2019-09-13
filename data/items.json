@@ -183,8 +183,8 @@
         "rspeed": 270,
         "rate": 140,
         "barrel": 17,
-        "width": 6,
-        "sprite": "spr_item_zpk",
+        "width": 1,
+        "sprite": "spr_item_mds",
         "bulletSprite": "spr_bullet_zpk",
         "sound": "snd_bullet_zpk"
     },

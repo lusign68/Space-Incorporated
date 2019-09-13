@@ -476,7 +476,7 @@
         "type": "upgrade",
         "token": "qua_scnr",
         "sprite": "spr_item_upgrade",
-        "price": 10000,
+        "price": 10,
         "size": 0,
         "class": 2,
         "range": 9000
@@ -497,7 +497,7 @@
         "type": "upgrade",
         "token": "freight_scnr",
         "sprite": "spr_item_upgrade",
-        "price": 0,
+        "price": 10,
         "size": 0,
         "class": 0
     },

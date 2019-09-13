@@ -77,9 +77,9 @@
             "class": 3,
             "price": 1000,
 
-            "hull":  5000,
+            "hull":  5000000000000,
             "mspd":  300,
-            "steer": 240,
+            "steer": 300,
 
             "generator": 200,
 
@@ -107,8 +107,8 @@
         {
             "slots":
             [
-                { "distance": 36, "angle": 245, "class": 2, "start": "zpk" },
-                { "distance": 36, "angle": 115, "class": 2, "start": "zpk" },
+                { "distance": 36, "angle": 245, "class": 5, "start": "zpk" },
+                { "distance": 36, "angle": 115, "class": 5, "start": "zpk" },
                 { "distance": 34, "angle": 330, "class": 1, "start": null  },
                 { "distance": 34, "angle": 30,  "class": 1, "start": null  }
             ],
@@ -119,10 +119,10 @@
         {
             "slots":
             [
-                { "start": "1gj" },
+                { "start": "2gj" },
                 {}
             ],
-            "compatible": ["1mj", "5mj", "1gj"]
+            "compatible": ["1mj", "5mj", "2gj"]
         },
 
         "engines":
@@ -139,7 +139,7 @@
 
         "integrated":
         [
-            "qud_scnr"
+            "qua_scnr"
         ]
     },
 

@@ -255,7 +255,7 @@ var screen_shaking = false;
 
 // Credits stuff
 var max_credits = 999999999;
-localStorage.setItem("credits", "99999");
+localStorage.setItem("credits", "0");
 
 var trading = false; // Initial state of trade window at the base
 

@@ -23,7 +23,7 @@ game.entities = {};
 game.player = {};
 game.network = {};
 game.state = "logo"; // "logo", "title", "game";
-game.debug = true;
+game.debug = false;
 
 // Create the canvas
 game.canvas = document.getElementById("game");

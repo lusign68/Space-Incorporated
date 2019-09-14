@@ -185,7 +185,7 @@
         "barrel": 17,
         "width": 1,
         "sprite": "spr_item_mds",
-        "bulletSprite": "spr_bullet_zpk",
+        "bulletSprite": "spr_bullet_ise",
         "sound": "snd_bullet_zpk"
     },
 

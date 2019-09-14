@@ -184,7 +184,7 @@
         "rate": 140,
         "barrel": 17,
         "width": 1,
-        "sprite": "spr_item_mds",
+        "sprite": "spr_item_ise",
         "bulletSprite": "spr_bullet_ise",
         "sound": "snd_bullet_zpk"
     },
